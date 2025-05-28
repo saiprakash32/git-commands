@@ -1,5 +1,7 @@
 What is Source code management tool?
 
+A Source Code Management (SCM) tool is a software application used by developers to manage changes to source code over time. It helps track and control revisions, collaborate with team members, and maintain a history of changes made to the codebase.
+
 - Version Control: It allows teams of developers to keep track of changes to their codebase.
 
 - Collaboration: It enables multiple developers to work together on the same project.
